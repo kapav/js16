@@ -1,1 +1,1 @@
-h2 **Сборщики пакетов** (module bundler). ***Например Webpack.***
+**Сборщики пакетов** (module bundler). Например ***Webpack***.
