@@ -24,5 +24,9 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/kapav/js16.git"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0"
   }
 }
