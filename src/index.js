@@ -1,7 +1,6 @@
-import 'bootstrap/dist/css/bootstrap.min.css';
-import './styles.css';
+import './styles.scss';
 
-import 'bootstrap/js/dist/util';
+import './bootstrap/bootstrap.js';
 
 jQuery(document).ready(function($) {
 	//$('body').css('background-color', 'orange');
